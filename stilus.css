@@ -1,0 +1,88 @@
+/* 1. feladat */
+.flex-container{
+    display: flex;
+    height: 300px;
+    width: 100%;
+}
+#zold{
+    background-color: green;
+    height: 300px;
+    width: 100%;
+
+}
+#sarga{
+    background-color: yellow;
+    height: 300px;
+    width: 100%;
+}
+#lila{
+    background-color: purple;
+    height: 300px;
+    width: 100%;
+}
+/* 2. feladat */
+.flex-container{
+    display: flex;
+    height: 300px;
+    width: 100%;
+}
+#zold2{
+    background-color: green;
+    height: 300px;
+    width: 100%;
+
+}
+#sarga2{
+    background-color: yellow;
+    height: 300px;
+    width: 150%;
+}
+#lila2{
+    background-color: purple;
+    height: 300px;
+    width: 100%;
+}
+/* 3. feladat */
+.flex-container{
+    display: flex;
+    height: 300px;
+    width: 100%;
+}
+#zold3{
+    background-color: green;
+    height: 300px;
+    width: 100%;
+
+}
+#sarga3{
+    background-color: yellow;
+    height: 300px;
+    width: 150%;
+}
+#lila3{
+    background-color: purple;
+    height: 300px;
+    width: 100%;
+}
+#container{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 2;
+    order: 2;
+}
+    #zold4{
+        background-color: green;
+        height: 200px;
+        width: 90%;
+    }
+    #lila4{
+        background-color: purple;
+        height: 200px;
+        width: 90%;
+
+    }
+    #sarga4{
+        background-color: yellow;
+        height: 400px;
+        width: 90%;
+    }
